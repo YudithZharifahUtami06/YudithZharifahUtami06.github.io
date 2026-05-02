@@ -140,3 +140,10 @@
 .portfolio-info p {
   font-size: 0.85rem;
 }
+.portfolio-info h4 {
+  color: #333;
+}
+
+.portfolio-info p {
+  color: #666;
+}
