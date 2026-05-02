@@ -140,10 +140,14 @@
 .portfolio-info p {
   font-size: 0.85rem;
 }
+.portfolio-info {
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+}
+
 .portfolio-info h4 {
-  color: #333;
+  color: #fff;
 }
 
 .portfolio-info p {
-  color: #666;
+  color: #f1f1f1;
 }
