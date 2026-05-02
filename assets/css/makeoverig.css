@@ -151,3 +151,12 @@
 .portfolio-info p {
   color: #f1f1f1;
 }
+
+.mobile-nav-active .navmenu ul li a {
+    color: #333333 !important;
+}
+
+.mobile-nav-active .navmenu ul li a:hover,
+.mobile-nav-active .navmenu ul li a.active {
+    color: #8b6b61 !important; 
+}
